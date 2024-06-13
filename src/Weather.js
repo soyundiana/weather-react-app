@@ -68,7 +68,7 @@ export default function Weather(props) {
             Diana A:-)
           and is{" "}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/soyundiana/weather-react-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -76,7 +76,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-weather.netlify.app/"
+            href="https://weather-react-diana.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
